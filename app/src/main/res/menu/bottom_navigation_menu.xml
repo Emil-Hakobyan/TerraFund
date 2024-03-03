@@ -1,0 +1,21 @@
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:title="Home"
+        android:icon="@drawable/nav_home" />
+    <item
+        android:id="@+id/navigation_settings"
+        android:title="Settings"
+        android:icon="@drawable/nav_settings" />
+    <item
+        android:id="@+id/navigation_exit"
+        android:title="Profile"
+        android:icon="@drawable/profile_image" />
+
+
+
+
+
+
+</menu>
